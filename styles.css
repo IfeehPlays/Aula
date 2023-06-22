@@ -1,0 +1,45 @@
+body {
+    
+}
+
+h2 {
+    text-align: center;
+}
+
+div {
+    margin: 0px;
+    
+}
+
+.flexbox {
+    display: flex;
+    flex-direction: row;
+}
+
+.servicos {
+    background: #392A2A;
+}
+.sobre {
+    background-color: #622727;
+    
+}
+
+.equipe {
+    background: #262626;
+}
+
+#img-principal {
+    width: 700px;
+}
+
+.card {
+    width: 200px;
+}
+
+li {
+    list-style-type: none;
+}
+
+.div.card {
+    background-color: none;
+}
