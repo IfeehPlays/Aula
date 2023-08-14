@@ -1,0 +1,70 @@
+body {
+    
+}
+
+h2 {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+div {
+    margin: 0px;
+    
+}
+
+p {
+    margin-bottom: 0px;
+    font-size: 24px;
+    text-align: center;
+}
+
+.flexbox {
+    display: flex;
+    flex-direction: row;
+}
+
+.servicos {
+    background: #392A2A;
+    padding-bottom: 20px;
+}
+
+.servicos p {
+    color: white;
+}
+.sobre {
+    background-color: #622727;
+    margin-bottom: 0px;
+    padding-bottom: 20px;
+}
+
+.equipe {
+    background: #262626;
+    margin-top: 0px;
+    padding-bottom: 20px;
+}
+
+#img-principal {
+    width: 700px;
+}
+
+.card {
+    width: 200px;
+}
+
+
+li {
+    list-style-type: none;
+}
+
+.div.card {
+    background-color: none;
+}
+
+.end {
+    background-color: black;
+}
+
+.end p {
+    color: white;
+}
